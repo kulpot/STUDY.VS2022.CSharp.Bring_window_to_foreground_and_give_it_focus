@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bring_window_to_foreground_and_give_it_focus", "Bring_window_to_foreground_and_give_it_focus\Bring_window_to_foreground_and_give_it_focus.csproj", "{226FD672-55F5-4033-973A-6F7ED1E1DB39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226FD672-55F5-4033-973A-6F7ED1E1DB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226FD672-55F5-4033-973A-6F7ED1E1DB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226FD672-55F5-4033-973A-6F7ED1E1DB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226FD672-55F5-4033-973A-6F7ED1E1DB39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15034C25-6E97-4E45-BA01-DAB0BA763A13}
+	EndGlobalSection
+EndGlobal
